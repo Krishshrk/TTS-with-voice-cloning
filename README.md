@@ -49,6 +49,10 @@ python tortoise_utilities.py --voice=<your_subdirectory_name>
 
 Tortoise will use the reference clips to generate speech in the style of the speaker you've added.
 
+### Jupyter Notebook instructions 
+
+All the modules are given in the jupyter notebook file and samples voice are given in the repository if the voice file is not playing in colab
+
 ## Guidelines for Good Clips
 
 When gathering audio clips for voice cloning, consider the following guidelines:
